@@ -1,0 +1,8 @@
+{
+  "name": "cumorbit-solana",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "anchor test",
+    "mint": "ts-node scripts/mint.ts"
+  }
+}
